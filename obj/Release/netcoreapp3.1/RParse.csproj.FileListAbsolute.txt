@@ -1,0 +1,14 @@
+A:\seb\csharp\rparse\RParse\RParse\bin\Release\netcoreapp3.1\RParse.exe
+A:\seb\csharp\rparse\RParse\RParse\bin\Release\netcoreapp3.1\RParse.deps.json
+A:\seb\csharp\rparse\RParse\RParse\bin\Release\netcoreapp3.1\RParse.runtimeconfig.json
+A:\seb\csharp\rparse\RParse\RParse\bin\Release\netcoreapp3.1\RParse.runtimeconfig.dev.json
+A:\seb\csharp\rparse\RParse\RParse\bin\Release\netcoreapp3.1\RParse.dll
+A:\seb\csharp\rparse\RParse\RParse\bin\Release\netcoreapp3.1\RParse.pdb
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.csproj.AssemblyReference.cache
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.GeneratedMSBuildEditorConfig.editorconfig
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.AssemblyInfoInputs.cache
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.AssemblyInfo.cs
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.csproj.CoreCompileInputs.cache
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.dll
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.pdb
+A:\seb\csharp\rparse\RParse\RParse\obj\Release\netcoreapp3.1\RParse.genruntimeconfig.cache
